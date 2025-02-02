@@ -19,7 +19,3 @@ holo = {
     'ReGLOSS': ['Hiodoshi Ao', 'Otonose Kanade', 'Ichijou Ririka', 'Juufuutei Raden', 'Todoroki Hajime'],
     'FLOW GLOW': ['Isaki Riona', 'Koganei Niko', 'Mizumiya Su', 'Rindo Chihaya', 'Kikirara Vivi']
 }
-
-for key, item in holo.items():
-    for i in item:
-        st.write(f"Hololive {key}'s {i}")
