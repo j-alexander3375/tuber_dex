@@ -1,6 +1,7 @@
 import streamlit as st
+import pandas as pd
 
-holo = {
+holo = pd.DataFrame({
     "Generation 0": ['Hoshimachi Suisei', 'Sakura Miko', 'AZKi', 'Tokino Sora', 'Robocosan'],
     "Generation 1": ['Aki Rosenthal', 'Akai Haato', 'Natsuiro Matsuri'],
     "Generation 2": ['Murasaki Shion', 'Nakiri Ayame', 'Yuzuki Choco', 'Ōzora Subaru',],
@@ -18,4 +19,4 @@ holo = {
     'Justice': ['Elizabeth Rose Bloodflame', 'Cecilia Immergreen', 'Raora Panthera', 'Gigi Murin'],
     'ReGLOSS': ['Hiodoshi Ao', 'Otonose Kanade', 'Ichijou Ririka', 'Juufuutei Raden', 'Todoroki Hajime'],
     'FLOW GLOW': ['Isaki Riona', 'Koganei Niko', 'Mizumiya Su', 'Rindo Chihaya', 'Kikirara Vivi']
-}
+})
