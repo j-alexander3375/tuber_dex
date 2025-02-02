@@ -9,7 +9,7 @@ holo = {
     "Generation 4": ['Amane Kanata', 'Tsunomaki Watame', 'Tokoyami Towa', 'Himemori Luna'],
     "Generation 5": ['Yukihana Lamy', 'Momosuzu Nene', "Shishiro Botan", 'Omaru Polka'],
     "holoX": ['La+ Darkness', "Takane Lui", "Hakui Koyori", "Kazama Iroha"],
-    "AREA15": ['Ayunda Risu', 'Moona Hoshinova', 'airani Iofifteen'],
+    "AREA15": ['Ayunda Risu', 'Moona Hoshinova', 'Airani Iofifteen'],
     "holoro": ["Kureiji Ollie", 'Anya Melfissa', 'Pavolia Reine'],
     'holoh3ro': ['Vestia Zeta', 'Kaela Kovalskia', 'Kobo Kanaeru'],
     'Myth': ['Mori Calliope', 'Takanashi Kiara', "Ninomae Ina'nis", 'Gawr Gura'],
