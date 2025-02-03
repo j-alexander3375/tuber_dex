@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 from hololive import holo
 
 st.markdown("# Welcome to TuberDex!")
@@ -10,5 +9,3 @@ st.write("")
 for key, item in holo.items():
   for i in item:
     st.write(f"Hololive {key}'s {i}")
-
-st.table(holo)
