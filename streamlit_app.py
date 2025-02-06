@@ -1,5 +1,7 @@
 import streamlit as st
 from hololive import holo
+from Vertex import Vertex
+from Graph import Graph
 
 st.markdown("# Welcome to TuberDex!")
 st.markdown("## As development continues I hope to add more Indie and other corporation related VTubers, though for now, we have all of HoloLive!")
