@@ -1,4 +1,6 @@
 import streamlit as st
+from Vertex import Vertex
+from Graph import Graph
 
 holo = {
     "Generation 0": ['Hoshimachi Suisei', 'Sakura Miko', 'AZKi', 'Tokino Sora', 'Robocosan'],
