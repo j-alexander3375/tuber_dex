@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="tuber_dex.sqlite" uuid="c0dc2e07-63f8-43ff-9dda-ee7bb446df42">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:tuber_dex.sqlite</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <init-script>st_td</init-script>
+      <keep-alive enable="true" />
+      <auto-close enable="true" />
+    </data-source>
+  </component>
+</project>
