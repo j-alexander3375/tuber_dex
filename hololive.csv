@@ -1,0 +1,77 @@
+id,name,generation,birthday,height_cm,debut
+0,Sakura Miko,Generation 0,March 5th,152,2018-08-01
+1,Hoshimachi Suisei,Generation 0,March 22nd,160,2018-03-22
+2,Tokino Sora,Generation 0,August 31st,160,2017-09-07
+3,Robocosan,Generation 0,May 23rd,154,2018-03-09
+4,AZKi,Generation 0,July 1st,158,2018-11-15
+5,Aki Rosenthal,Generation 1,February 17th,162,2018-06-01
+6,Akai Haato/Haachama,Generation 1,August 10th,158,2018-06-02
+7,Shirakami Fubuki,Generation 1,October 5th,155,2018-06-01
+8,Natsuiro Matsuri,Generation 1,July 22nd,158,2018-06-01
+9,Nakiri Ayame,Generation 2,December 13th,152,2018-09-03
+10,Yuzuki Choco,Generation 2,February 14th,162,2018-09-04
+11,Oozora Subaru,Generation 2,July 2nd,154,2018-09-16
+12,Ookami Mio,GAMERS,August 20th,160,2018-12-07
+13,Nekomata Okayu,GAMERS,February 22nd,152,2019-04-06
+14,Inugami Korone,GAMERS,June 1st,150,2019-04-13
+15,Usada Pekora,Generation 3,January 12th,153,2019-07-17
+16,Shiranui Flare,Generation 3,April 2nd,158,2019-08-07
+17,Shirogane Noel,Generation 3,November 24th,165,2019-08-08
+18,Houshou Marine,Generation 3,July 30th,160,2019-08-11
+19,Amane Kanata,Generation 4,April 22nd,149,2019-12-27
+20,Tsunomaki Watame,Generation 4,June 6th,151,2019-12-29
+21,Tokoyami Towa,Generation 4,August 8th,158,2020-01-03
+22,Himemori Luna,Generation 4,October 10th,140,2020-01-04
+23,Yukihana Lamy,Generation 5,November 15th,158,2020-08-12
+24,Momosuzu Nene,Generation 5,March 2nd,159,2020-08-13
+25,Shishiro Botan,Generation 5,September 8th,166,2020-08-14
+26,Omaru Polka,Generation 5,January 30th,153,2020-08-16
+27,La+ Darkness,holoX,May 25th,134,2021-11-26
+28,Takane Lui,holoX,June 11th,161,2021-11-27
+29,Hakui Koyori,holoX,March 15th,153,2021-11-28
+30,Kazama Iroha,holoX,June 18th,156,2021-11-30
+31,Ayunda Risu,Area 15,January 15th,153,2020-04-10
+32,Moona Hoshinova,Area 15,February 15th,165,2020-04-11
+33,Airani Iofifteen,Area 15,July 15th,150,2020-04-12
+34,Kureiji Ollie,holoro,October 13th,162,2020-12-04
+35,Anya Melfissa,holoro,March 12th,147,2020-12-05
+36,Pavolia Reine,holoro,September 9th,172,2020-12-06
+37,Vestia Zeta,holoh3ro,November 7th,155,2022-03-25
+38,Kaela Kovalskia,holoh3ro,August 30th,173,2022-03-26
+39,Kobo Kanaeru,holoh3ro,December 12th,150,2022-03-27
+40,Mori Calliope,Myth,April 4th,167,2020-09-12
+41,Takanashi Kiara,Myth,July 6th,165,2020-09-12
+42,Ninomae Inanis,Myth,October 20th,157,2020-09-13
+43,Gawr Gura,Myth,June 20th,141,2020-09-13
+44,Ouro Kronii,Promise,March 14th,168,2021-08-23
+45,IRyS,Promise,March 7th,166,2021-07-11
+46,Nanashi Mumei,Graduated,August 1st,156,2021-08-23
+47,Hakos Baelz,Promise,February 29th,149,2021-08-23
+48,Shiori Novella,Advent,May 2nd,163,2023-07-30
+49,Nerissa Ravencroft,Advent,November 21st,175,2022-07-31
+50,Koseki Bijou,Advent,April 14th,140,2023-07-30
+51,Fuwawa Abyssgard,Advent,February 1st,155,2023-07-31
+52,Mococo Abyssgard,Advent,February 2nd,155,2023-07-31
+53,Elizabeth Rose Bloodflame,Justice,April 25th,171,2024-06-22
+54,Gigi Murin,Justice,October 18th,153,2024-06-22
+55,Raora Panthera,Justice,May 11th,158,2024-06-23
+56,Cecilia Immergreen,Justice,November 11th,162,2024-06-23
+57,Hiodoshi Ao,DEV_IS ReGLOSS,February 28th,171,2023-09-09
+58,Otonose Kanade,DEV_IS ReGLOSS,April 20th,153,2023-09-09
+59,Ichijou Ririka,DEV_IS ReGLOSS,May 12th,162,2023-09-09
+60,Juufuutei Raden,DEV_IS ReGLOSS,February 4th,159,2023-09-10
+61,Todoroki Hajime,DEV_IS ReGLOSS,June 7th,155,2023-09-10
+62,Isaki Riona,DEV_IS FLOWGLOW,May 29th,160,2024-11-9
+63,Koganei Niko,DEV_IS FLOWGLOW,July 25th,172,2024-11-9
+64,Mizumiya Su,DEV_IS FLOWGLOW,June 16th,151,2024-11-9
+65,Rindo Chihaya,DEV_IS FLOWGLOW,July 8th,168,2024-11-9
+66,Kikirara Vivi,DEV_IS FLOWGLOW,August 27th,161,2024-11-9
+67,Yozora Mel,Terminated,October 31st,154,2018-05-13
+68,Uruha Rushia,Terminated,January 22nd,143,2019-06-18
+69,Kiryu Coco,Graduated,June 17th,180,2019-12-28
+70,Minato Aqua,Graduated,December 1st,148,2018-08-08
+71,Ceres Fauna,Graduated,March 21st,164,2021-08-23
+72,Tsukumo Sana,Graduated,June 10th,169,2021-08-23
+73,Murasaki Shion,Graduated,December 8th,145,2019-08-17
+74,Amelia Watson,Affiliate,January 6th,150,2020-09-13
+75,Sakamata Chloe,Affiliate,May 18th,150,2021-11-29
