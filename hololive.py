@@ -1,6 +1,3 @@
-import os
-import  mysql.connector
+pass
 
-holo = mysql.connector.connect(
-    host="localhost",
-    user="
+#temp blank-+-+-+-+-+-+-+-+-+-+-+-----+++-++-*/
